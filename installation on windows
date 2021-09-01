@@ -1,0 +1,14 @@
+- install python
+https://www.python.org/downloads/
+
+- install pip
+  - open cmd
+    sysdm.cpl > Advanced > Environment Variables
+    Path > Edit > New
+    C:\Users\User\AppData\Local\Programs\Python\Python39\Scripts
+    
+ - install selenium drivers
+  - Chrome:
+    npm install -g chromedriver
+  - Firefox
+    npm install -g geckodriver
